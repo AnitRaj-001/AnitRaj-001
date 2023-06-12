@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/AnitRaj-001/AnitRaj-001/assets/88747708/a9ad3a94-292f-4dd5-83b9-27427ed92f23)
+![Github Banner](https://github.com/AnitRaj-001/AnitRaj-001/assets/88747708/a48e2a5a-cac2-409d-b371-988a92ae2f19)
 <h1 align="center">Hi 👋, I'm Anit Raj</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
