@@ -1,15 +1,24 @@
 ![Github Banner](https://github.com/AnitRaj-001/AnitRaj-001/blob/0bc1e6287a5ea4298cf71fed0685c815afe089d9/Black%20Minimalist%20UIUX%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anit Raj</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Flutter & Android Developer</h3>
 
-<img align="right" alt="Coding" width="300" heigth="100" src="https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?t=st=1742938341~exp=1742941941~hmac=bfff7538cf96736ec8fdfc9e72c87cc08a991cd1dbe0e0b61916f31629667052&w=1380">
-          💫 About Me:<br>
-🔭 I’m currently working as an Android Developer.<br>🤝 I’m looking for help with Making some Awesome Apps.<br>🌱 I’m currently learning Android & Flutter.<br>
-📫 How to reach me **anitraj862002@gmail.com**<br>
-⚡ Fun fact I am quite mystery.
+<div align="center">
+  <img align="right" alt="Coding" width="280" src="https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?t=st=1742938341~exp=1742941941~hmac=bfff7538cf96736ec8fdfc9e72c87cc08a991cd1dbe0e0b61916f31629667052&w=1380">
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhumi_subham)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anitraj01)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-delta-eight.vercel.app/)
+## 💫 About Me  
+🔹 **Flutter Developer** passionate about building **scalable & visually appealing apps**.  
+🔹 Working on **Flutter projects** & exploring **Android Development**.  
+🔹 Love crafting **pixel-perfect UIs** & optimizing performance.  
+🔹 Always eager to **collaborate & learn new technologies**.  
+
+📩 Reach me at [**anitraj862002@gmail.com**](mailto:anitraj862002@gmail.com)  
+⚡ Fun fact: I turn ideas into **beautiful, functional apps!** 🚀  
+
+---
+
+## 🌐 Socials  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhumi_subham)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anitraj01) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-delta-eight.vercel.app/)  
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
