@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anit Raj</h1>
 <h3 align="center">A passionate Flutter & Android Developer</h3>
 
-<div align="center">
-  <img align="right" alt="Coding" width="280" src="https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?t=st=1742938341~exp=1742941941~hmac=bfff7538cf96736ec8fdfc9e72c87cc08a991cd1dbe0e0b61916f31629667052&w=1380">
-</div>
-
+<table>
+  <tr>
+    <td width="65%">
+      
 ## 💫 About Me  
 🔹 **Flutter Developer** passionate about building **scalable & visually appealing apps**.  
 🔹 Working on **Flutter projects** & exploring **Android Development**.  
@@ -15,8 +15,14 @@
 📩 Reach me at [**anitraj862002@gmail.com**](mailto:anitraj862002@gmail.com)  
 ⚡ Fun fact: I turn ideas into **beautiful, functional apps!** 🚀  
 
----
+   </td>
+   <td width="35%">
+      <img src="https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?t=st=1742938341~exp=1742941941~hmac=bfff7538cf96736ec8fdfc9e72c87cc08a991cd1dbe0e0b61916f31629667052&w=1380" width="100%">
+   </td>
+  </tr>
+</table>
 
+---
 ## 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhumi_subham)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anitraj01) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-delta-eight.vercel.app/)  
 
