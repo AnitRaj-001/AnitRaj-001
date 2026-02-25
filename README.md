@@ -1,29 +1,53 @@
 ![Github Banner](https://github.com/AnitRaj-001/AnitRaj-001/blob/0bc1e6287a5ea4298cf71fed0685c815afe089d9/Black%20Minimalist%20UIUX%20Designer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Anit Raj</h1>
-<h3 align="center">A passionate Flutter & Android Developer</h3>
-
-<table>
-  <tr>
-    <td width="65%">
-      
-## 💫 About Me  
-🔹 **Flutter Developer** passionate about building **scalable & visually appealing apps**.  
-🔹 Working on **Flutter projects** & exploring **Android Development**.  
-🔹 Love crafting **pixel-perfect UIs** & optimizing performance.  
-🔹 Always eager to **collaborate & learn new technologies**.  
-
-📩 Reach me at [**anitraj862002@gmail.com**](mailto:anitraj862002@gmail.com)  
-⚡ Fun fact: I turn ideas into **beautiful, functional apps!** 🚀  
-
-   </td>
-   <td width="35%">
-      <img src="https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?t=st=1742938341~exp=1742941941~hmac=bfff7538cf96736ec8fdfc9e72c87cc08a991cd1dbe0e0b61916f31629667052&w=1380" width="100%">
-   </td>
-  </tr>
-</table>
+<h3 align="center">Cross-Platform Mobile App Developer | Flutter & React Native</h3>
 
 ---
-## 🌐 Socials  
+
+## 🚀 About Me
+
+I am a **Mobile Application Developer** focused on building production-ready apps for startups, businesses, and content platforms.
+
+I specialize in creating **fast, scalable, and clean UI mobile applications** with modern architecture and smooth user experience.
+
+* 📱 Cross-platform apps (Android & iOS)
+* 🔥 Firebase & REST API integrations
+* 💳 Payment Gateway Integration (Razorpay / Stripe)
+* 📺 Live Streaming & Video Platforms
+* 🧠 State Management (Provider, Riverpod, Redux)
+* 🎨 UI/UX Implementation (Figma → App)
+
+📩 Email: **[anitraj862002@gmail.com](mailto:anitraj862002@gmail.com)**
+
+---
+
+## 🧠 What I Can Build
+
+✔ Social Media Apps
+✔ Fintech / Wallet Apps
+✔ E-commerce Apps
+✔ Educational Platforms
+✔ OTT / Video Streaming Apps
+✔ Business & Booking Apps
+
+---
+
+## 🏆 Featured Work
+
+**Mercy TV – Islamic Educational Streaming Platform**
+
+* Live TV Streaming
+* Recorded Lectures & Prayer Sessions
+* Firebase Backend
+* Video Streaming Infrastructure
+* Published on Play Store with active users
+
+*(More apps available on request)*
+
+---
+
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhumi_subham)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anitraj01) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-delta-eight.vercel.app/)  
 
 # 💻 Tech Stack:
@@ -41,5 +65,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnitRaj-001&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
